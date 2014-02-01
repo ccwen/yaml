@@ -1,0 +1,17 @@
+{
+  "name": "yaml",
+  "version": "0.0.1",
+  "description": "yaml",
+  "main": "index.js",
+  "scripts": {
+    "test": "vows"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yapcheahshen/yaml"
+  },
+  "author": "yapcheahshen",
+  "license": "GPL 3.0",
+  "readmeFilename": "README.md",
+  "gitHead": "4509ade819ba8f1067634bc3fa86b33f26840d04"
+}
